@@ -122,6 +122,7 @@ class RoomController extends Controller
 	 */
 	public function actionIndex()
 	{
+		//$this->layout = "new_layout";
 		$dataProvider=new CActiveDataProvider('Room');
 		$this->render('index',array(
 			'dataProvider'=>$dataProvider,
