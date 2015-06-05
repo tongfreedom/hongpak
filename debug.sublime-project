@@ -1,0 +1,12 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\arnon"
+		}
+	]
+	"settings": {
+        "xdebug": { "url": "http://localhost/hongpak" }
+    }
+	
+}

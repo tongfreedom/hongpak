@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"doctype",
+				"doctype	HTML - HTML foundation"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 768.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/arnon"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/hongpak/debug.sublime-project",
+		"/C/xampp/htdocs/hongpak/debug.sublime-workspace",
+		"/C/Users/tong/Desktop/dd.php",
+		"/C/Users/tong/Desktop/hosts",
+		"/C/Users/tong/Dropbox/bkkweb/host_in_hosts.php",
+		"/C/Users/tong/Dropbox/bkkweb/virtualHost_in_httpd_xampp.php",
+		"/C/xampp/htdocs/hongpak/views/layouts/main.php",
+		"/C/xampp/htdocs/hongpak/migrations/m150604_100338_create_user_tbl.php",
+		"/C/xampp/htdocs/hongpak/views/site/resetPassword.php",
+		"/C/xampp/htdocs/hongpak/views/site/login.php",
+		"/C/xampp/htdocs/hongpak/views/site/requestPasswordResetToken.php",
+		"/C/xampp/htdocs/hongpak/views/site/signup.php",
+		"/C/xampp/htdocs/hongpak/controllers/SiteController.php",
+		"/C/xampp/htdocs/hongpak/models/PasswordResetRequestForm.php",
+		"/C/xampp/htdocs/hongpak/models/SignupForm.php",
+		"/C/xampp/htdocs/hongpak/models/ResetPasswordForm.php",
+		"/C/xampp/htdocs/hongpak/models/User.php",
+		"/C/xampp/htdocs/hongpak/models/LoginForm.php",
+		"/C/xampp/htdocs/hongpak/models/transaction.php",
+		"/C/xampp/htdocs/hongpak/views/transaction/index.php",
+		"/C/xampp/htdocs/hongpak/views/transaction/_form.php",
+		"/C/xampp/htdocs/hongpak/controllers/TransactionController.php",
+		"/C/xampp/htdocs/hongpak/models/room.php",
+		"/C/xampp/htdocs/hongpak/views/transaction/view.php",
+		"/C/xampp/htdocs/hongpak/controllers/RoomController.php",
+		"/C/xampp/htdocs/hongpak/views/room/_form.php",
+		"/C/xampp/htdocs/hongpak/controllers/RoomsController.php",
+		"/C/xampp/htdocs/hongpak/config/web.php",
+		"/C/xampp/htdocs/hongpak/models/rooms.php",
+		"/C/xampp/htdocs/hongpak/views/rooms/view.php",
+		"/C/xampp/htdocs/hongpak/views/rooms/update.php",
+		"/C/xampp/htdocs/hongpak/views/rooms/index.php",
+		"/C/xampp/htdocs/hongpak/views/rooms/add.php",
+		"/C/xampp/htdocs/hongpak/views/room/index.php",
+		"/C/xampp/htdocs/hongpak/config/db.php",
+		"/C/xampp/htdocs/hongpak/controllers/roomController.php",
+		"/C/xampp/htdocs/hongpak/views/room/view.php",
+		"/C/xampp/htdocs/hongpak/views/room/add.php",
+		"/C/xampp/htdocs/yii2basic/models/post.php",
+		"/C/xampp/htdocs/yii2basic/controllers/PostController.php",
+		"/C/xampp/htdocs/yii2basic/views/post/view.php",
+		"/C/xampp/htdocs/yii2basic/views/post/create.php",
+		"/C/xampp/htdocs/yii2basic/views/post/index.php",
+		"/C/xampp/htdocs/hongpak/assets/AppAsset.php",
+		"/C/xampp/htdocs/yii2basic/web/.htaccess",
+		"/C/xampp/htdocs/yii2basic/views/test/index.php",
+		"/C/xampp/htdocs/yii2basic/models/test.php",
+		"/C/xampp/htdocs/yii2basic/controllers/testController.php",
+		"/C/xampp/htdocs/yii2basic/controllers/HelloController.php",
+		"/C/xampp/htdocs/yii2basic/views/site/index.php",
+		"/C/xampp/htdocs/yii2basic/views/layouts/main.php",
+		"/C/xampp/htdocs/yii2basic/views/site/login.php",
+		"/C/xampp/htdocs/yii2basic/controllers/SiteController.php",
+		"/C/xampp/htdocs/yii2basic/config/web.php",
+		"/C/xampp/htdocs/yii2basic/web/index.php",
+		"/C/xampp/htdocs/yii2basic/models/LoginForm.php",
+		"/C/xampp/htdocs/yii2basic/migrations/m150602_061959_create_new_table.php",
+		"/C/xampp/htdocs/yii2basic/views/hello/index.php",
+		"/C/xampp/htdocs/yii2basic/config/db.php",
+		"/C/xampp/htdocs/yii2basic/assets/AppAsset.php",
+		"/C/Users/tong/Downloads/yii-basic-app-2.0.4/yii-basic-app-2.0.4/basic/vendor/yiisoft/yii2/grid/GridView.php",
+		"/C/AppServ/www/test.php",
+		"/C/AppServ/www/test1.php",
+		"/C/AppServ/www/yamyen/application/controllers/login.php",
+		"/C/AppServ/www/yamyen/application/views/login_view.php",
+		"/C/AppServ/www/yamyen/application/config/config.php",
+		"/C/AppServ/www/freedomsaving/application/views/head_view.php",
+		"/C/AppServ/www/yamyen/application/config/autoload.php",
+		"/C/AppServ/www/yamyen/application/config/routes.php",
+		"/C/AppServ/www/yamyen/application/views/template/template.php",
+		"/C/AppServ/www/yamyen/application/controllers/Welcome.php",
+		"/C/AppServ/www/yamyen/application/config/database.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"frontend",
+			"common",
+			"title",
+			"login",
+			"gridview",
+			"				\n",
+			"=;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "debug.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
